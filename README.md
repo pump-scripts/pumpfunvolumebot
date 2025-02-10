@@ -1,3 +1,5 @@
+[JOIN OUR TELEGRAM](https://t.me/pumpscripts) IF YOU HAVE ANY QUESTIONS
+
 <h1>Pump.Fun Volume Bot / Bump Bot || Supports Multi Workers</h1>
 
 <h3>CONFIG Guide (config.json):</h3>
